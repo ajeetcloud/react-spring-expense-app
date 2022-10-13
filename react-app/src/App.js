@@ -4,8 +4,8 @@ import {useState} from "react";
 
 const staticExpenses = [
     {id: 'e1', title: 'Car Insurance', amount: '100.25', date: new Date(2022, 5, 20)},
-    {id: 'e2', title: 'Rent', amount: '1000', date: new Date(2022, 10, 1)},
-    {id: 'e3', title: 'Broadband', amount: '50.75', date: new Date(2022, 7, 10)},
+    {id: 'e2', title: 'Rent', amount: '1000', date: new Date(2021, 10, 1)},
+    {id: 'e3', title: 'Broadband', amount: '50.75', date: new Date(2020, 7, 10)},
 ];
 
 const App = () => {
